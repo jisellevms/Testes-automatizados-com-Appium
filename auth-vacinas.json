@@ -1,0 +1,7 @@
+{"platformName":"Android",
+    "deviceName":"Galaxy_Nexus_API_27",
+    "app":"C:\\Users\\Usuario\\Desktop\\Android\\vacinas\\app\\homolog\\release\\app-homolog-release.apk",
+    "appPackage":"com.gfxconsultoria.medicare.homolog",
+    "appActivity":"com.gfxconsultoria.medicare.views.activities.SplashActivity",
+    "newCommandTimeout":3600
+    }
